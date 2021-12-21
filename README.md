@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @junarcho
+- 👋 Hi, I’m Junarcho Ardilo Berutu
 - 👀 I’m interested in Mobile Apps - Kotlin
-- 🌱 I’m currently learning Build Android Apps w/ Kotlin
+- 🛠 I’m currently learning Build Android Apps w/ Kotlin
 - 📫 How to reach me at ardilobrt@gmail.com
 
 <!---
